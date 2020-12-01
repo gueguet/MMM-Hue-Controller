@@ -5,7 +5,7 @@
 - Turn Off Button
 - Custom Themes Buttons
 
-![screenshot](mmm-hue-controller-screenshot.png)
+![screenshot](MMM-Hue-Controller-screenshot.png)
 
 ## Table of contents
 - [Installing the module](#installing-the-module)

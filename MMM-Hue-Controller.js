@@ -4,7 +4,7 @@
  * MIT Licensed.
 */
 
-Module.register("mmm-gueguet", {
+Module.register("MMM-Hue-Controller", {
 
     
   	defaults: {
@@ -17,7 +17,7 @@ Module.register("mmm-gueguet", {
 
     // CSS
     getStyles: function() {
-        return ['mmm-gueguet.css'];
+        return ['MMM-Hue-Controller.css'];
     },
 
 
